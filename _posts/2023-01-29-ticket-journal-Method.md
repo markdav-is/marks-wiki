@@ -1,6 +1,6 @@
 ---
 title: Ticket Journal Method
-date: 2023-02-1
+date: 2023-01-29
 ---
 
 # Ticket Journal Method
