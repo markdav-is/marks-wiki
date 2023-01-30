@@ -10,7 +10,7 @@ TJM is a way to quickly and easily track everything that comes at you so you don
 
 Create a new blank project in your ticketing system called “My Journal” or “[Your Name]’s Journal”
 
-![](https://paper-attachments.dropboxusercontent.com/s_9A62778626C03A5E5CEBAD03CCED50BAC084C06F7BC3927A64610BA91EDE8920_1674176053122_image.png)
+![](images/tjm-make.png)
 
 ## Week Ticket
 
