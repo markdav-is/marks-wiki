@@ -4,7 +4,7 @@ date: 2023-01-29
 ---
 
 # Ticket Journal Method
-TJM is a way to quickly and easily track everything that comes at you so you don’t get overwhelmed and nothing get lost.  Inspired by the analog [Bullet Journal Method](https://bulletjournal.com/) TJM is digital and works with any ticketing system that supports markdown or checklists.  This how-to guide uses examples from Linear (not affiliated).
+TJM is a way to track quickly and easily everything that comes at you, so you don’t get overwhelmed, and nothing gets lost. Inspired by the analog [Bullet Journal Method](https://bulletjournal.com/) TJM is digital and works with any ticketing system that supports markdown or checklists.  This how-to guide uses examples from Linear (not affiliated).
 
 # Make your journal
 
