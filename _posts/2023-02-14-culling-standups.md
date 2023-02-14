@@ -14,9 +14,9 @@ One of my favorite checklists is the _how to ask for and provide help_ checklist
 
 - Push your feature branch in it's broken state as a draft pull-request
 - Add reviewers that you think can help
-- comment on the exact line of code that is giving you trouble
-- start a thread in the project channel mentioning the folks you think can help and a link to the PR.
-- move on to another problem
+- Comment on the exact line of code that is giving you trouble
+- Start a thread in the project channel mentioning the folks you think can help and a link to the PR
+- Move on to another problem
 
 If your team is not code-first, replace the above _branch_ and _pull request_ language with _tickets_ and _documents_ most modern document apps have line-level comments and ways to mention people.
 
