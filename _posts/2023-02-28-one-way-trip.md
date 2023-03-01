@@ -3,7 +3,7 @@ title: One-Way Trip
 date: 2023-02-28
 ---
 
-# Let's write a blog post about AI being a one-way-trip because when the AI is creating content with more detail than a human can discern, it will take another AI to filter out the signal from the noise.
+# Let's write a blog post about AI being a one-way-trip total AI reliance. When the AI is generating content with more fidelity than a human can discern, it will take another AI to filter out the signal from the noise.
 
 That sounds like an interesting topic for a blog post. AI can generate content that is similar to or indistinguishable from human content, but it can also create personalized content experiences for users based on their behavior and interests. However, AI-generated content can sometimes lack coherence, consistency, and accuracy due to data limitations and other factors.
 
@@ -44,7 +44,7 @@ That’s a very challenging scenario. Some experts predict that most of the inte
 
 What do you think about these possible ways? Do you have any other ideas or suggestions?
 
-# I think I liked the old internet better, but AI is not a bell we can un-ring.
+# I think I liked the old human generated internet better, but AI is not a bell we can un-ring.
 
 Sorry, I think we need to move on! Click “New topic” to chat about something else.
 
