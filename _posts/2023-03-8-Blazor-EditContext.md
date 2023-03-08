@@ -1,6 +1,6 @@
 ---
 title: Blazor EditContext Validations and ViewModels
-date: 2023-02-28
+date: 2023-03-08
 ---
 
 # Blazor has a simple model for form Validation
