@@ -29,7 +29,7 @@ Now you are back to having one model as far as the edit form is concerned.  So y
 
 ## useful links:
 
-- [Forms and validation | Microsoft Learn.](https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/forms-validation)
+- [Forms and validation Microsoft Learn.](https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/forms-validation)
 - [ASP.NET Core Blazor forms and input components.](https://learn.microsoft.com/en-us/aspnet/core/blazor/forms-and-input-components?view=aspnetcore-7.0)
 - [How do you manually trigger the form validation in Blazor?](https://www.syncfusion.com/faq/blazor/forms-and-validation/how-do-you-manually-trigger-the-form-validation-in-blazor)
 - [How to properly manipulate validation messages in EditContext with ....](https://stackoverflow.com/questions/61892999/how-to-properly-manipulate-validation-messages-in-editcontext-with-blazor-server)
